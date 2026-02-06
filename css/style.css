@@ -54,10 +54,7 @@ a{
 .s1 .X{
     font-size: 40px;
     margin-right: 25px;
-    color: coral;
-    
-
-    
+    color: coral; 
 }
 
 .s1 h1{
@@ -66,6 +63,9 @@ a{
     color: blue;
     font-weight: bolder;
     margin-left: 10%;
+}
+.LP{
+    border-radius: 50%;
 }
 .s2{
     margin-top: 5%;
@@ -134,6 +134,7 @@ a{
     margin-top: 15%;
     font-size: 25px;
     color: chocolate;
+    font-weight: bolder;
 }
 .s4 h2{
     font-size: 20px;
@@ -195,9 +196,10 @@ footer{
 
 .ss3 h1{
     font-size: 30px;
-    margin-top: 20px;
+    margin-top: 30px;
     color: chocolate;
     font-weight: bolder;
+    margin-bottom: 20px;
    
 }
 .ss3 h2{
@@ -295,6 +297,49 @@ footer{
     font-size: 15px;
     background-color: cornflowerblue;
     margin-left: 50px;
+}
+
+
+.recolher{
+    transform: rotate(180deg);
+}
+
+.expandir{
+    transform: rotate(180deg);
+}
+
+.grupo1{
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 50px;
+    width: 95%;
+    margin-left: 2.5%;
+    padding-top: 5px;
+}
+.grupo1 h1{
+    padding-top: 5px;
+    font-size: 17px;
+}
+.grupo1 .imagem1{
+    text-align: left;
+
+}
+.grupo2{
+    background-color: white;
+    border: 2px solid black;
+    margin-left: 8%;
+    padding-top: 5px;
+    font-size: 17px;
+}
+.recolher{
+    width: 90%;
+}
+.ling{
+    font-weight: bolder;
+}
+.ling1{
+    font-size: 20px;
+    font-weight: bolder;
 }
 
 
